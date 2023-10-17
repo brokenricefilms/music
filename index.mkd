@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://ongedit.github.io/
+redirect_url: https://www.youtube.com/playlist?list=PLxkEHjd_ca6f6gyg6plFPajUcPlS5_qcr
 ---
